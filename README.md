@@ -1,1 +1,1 @@
-![GUI](Screenshot from 2025-05-15 04-23-00.png)
+![GUI](https://github.com/Ahmedaboalnader/clips/blob/main/Screenshot.png)
