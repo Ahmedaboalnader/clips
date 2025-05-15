@@ -1,0 +1,1 @@
+(assert (symptom (name fever)))

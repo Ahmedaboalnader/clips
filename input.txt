@@ -1,0 +1,2 @@
+(symptom cough)
+(symptom fatigue)
